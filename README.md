@@ -27,7 +27,7 @@ I want to get atleast two certification (AWS cloud practitioner and Solution arc
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [Lambda@Edge](https://drive.google.com/file/d/1EwHZiej-GnPAswriPVndxHKnBMRwSKZa/view?usp=sharing)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
